@@ -1,13 +1,10 @@
-package Tools;
+package tools;
 
-import Food.Item;
-import Food.Meat;
-import Food.Salad;
-import Food.Vegetable;
-import java.util.Arrays;
+import food.Meat;
+import food.Salad;
+import food.Vegetable;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 
 /**
  *

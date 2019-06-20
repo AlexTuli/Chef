@@ -1,4 +1,4 @@
-package Food;
+package food;
 
 /**
  * Created by Alexander on 10.10.2015.

@@ -1,6 +1,6 @@
-package Tools;
+package tools;
 
-import Food.Item;
+import food.Item;
 import java.util.Comparator;
 
 public class SortByCost implements Comparator<Item>{

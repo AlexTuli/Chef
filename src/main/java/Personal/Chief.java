@@ -1,7 +1,7 @@
-package Personal;
+package personal;
 
-import Food.Salad;
-import Tools.Tools;
+import food.Salad;
+import tools.Tools;
 
 /**
  * Created by Alexander on 11.10.2015.
